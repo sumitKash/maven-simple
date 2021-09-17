@@ -1,0 +1,46 @@
+[
+    {
+      "ParameterKey": "DomainPrefix",
+      "ParameterValue": "_DomainPrefix_"
+    }, 
+    {
+      "ParameterKey": "EnvironmentType",
+      "ParameterValue": "_EnvironmentType_"
+    },
+    {
+        "ParameterKey": "DBSnapshotIdentifier",
+        "ParameterValue": "_DBSnapshotIdentifier_"
+    },
+    {
+        "ParameterKey": "DBInstanceClass",
+        "ParameterValue": "_DBInstanceClass_"
+    },
+    {
+        "ParameterKey": "AllocatedStorage",
+        "ParameterValue": "_AllocatedStorage_"
+    },
+    {
+        "ParameterKey": "BackupRetentionPeriod",
+        "ParameterValue": "_BackupRetentionPeriod_"
+    },
+    {
+        "ParameterKey": "PostgreSQLEngineVersion",
+        "ParameterValue": "_PostgreSQLEngineVersion_"
+    },
+    {
+        "ParameterKey": "DBParameterGroupName",
+        "ParameterValue": "_DBParameterGroupName_"
+    },
+    {
+        "ParameterKey": "DBSubnetGroupName",
+        "ParameterValue": "_DBSubnetGroupName_"
+    },
+    {
+        "ParameterKey": "StorageType",
+        "ParameterValue": "_StorageType_"
+    },
+    {
+        "ParameterKey": "Iops",
+        "ParameterValue": "_Iops_"
+    },
+]
